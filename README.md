@@ -12,6 +12,7 @@
 * 运行程序
 
 #### 1.1.1 创建项目
+![image](https://github.com/hiddenliness/C-0/assets/77733209/71a94c64-c8cf-4c98-b24b-68cd332551ad)
 
 ​	Visual Studio是我们用来编写C++程序的主要工具，我们先将它打开
 
